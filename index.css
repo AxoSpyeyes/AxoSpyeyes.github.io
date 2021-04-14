@@ -6,11 +6,21 @@
 }
 
 #logo {
-width: 50%;
-display: block;
-margin-left: 25%;
-margin-right: 25%;
-position: fixed;
+  width: 50%;
+  display: block;
+  margin-left: 25%;
+  margin-right: 25%;
+  position: fixed;
+  z-index: -1;
+}
+
+#break {
+  width: 50%;
+  display: block;
+  margin-left: 25%;
+  margin-right: 25%;
+  position: inherit;
+  z-index: -2;
 }
 
 #discordImage {
@@ -26,7 +36,7 @@ body {
   position: fixed;
   top: 0;
   width: 99%;
-  z-index: 10000
+  z-index: 10000;
 }
 .navbar a{
   text-decoration: none;
