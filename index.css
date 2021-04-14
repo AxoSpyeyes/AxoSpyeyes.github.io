@@ -1,0 +1,78 @@
+.banner{
+  background-color: lightblue;
+  color: white;
+  text-align: center;
+  padding: 100px 0px;
+}
+
+#logo {
+width: 50%;
+display: block;
+margin-left: 25%;
+margin-right: 25%;
+position: fixed;
+}
+
+#discordImage {
+  width: 1.5em;
+}
+
+body {
+  background-color: #4C4F54
+}
+
+.navbar {
+  background-color: #115e88;
+  position: fixed;
+  top: 0;
+  width: 99%;
+  z-index: 10000
+}
+.navbar a{
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.navbar img{
+padding: 0px 60px;
+}
+
+p {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+.navbar li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.bold {
+  font-weight: 900;
+}
+
+.footer {
+  background-color: black;
+  width: 100%;
+  height: 100px;
+  color: white;
+  text-align: center;
+}
+
+.footer #footer-text {
+  font-size: 18px;
+  margin: 0;
+  padding-top: 40px;
+}
+
+
+#pictures {
+  height: 250px;
+  margin-top: 25px;
+}
+
+#pictures:hover {
+}
