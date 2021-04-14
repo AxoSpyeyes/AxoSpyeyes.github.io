@@ -28,6 +28,10 @@
   width: 1.5em;
 }
 
+#rules {
+max-width: 99%;
+}
+
 body {
   background-color: #4C4F54
 }
